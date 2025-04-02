@@ -6,20 +6,20 @@ A simple recipe browsing web page that fetches recipes from a remote API and dis
 
 ## 🚀 Features
 
-✅ Dynamic recipe cards rendered from a public API
+1. ✅ Dynamic recipe cards rendered from a public API
 
-✅ Filter by:
+2. ✅ Filter by:
     - Difficulty (Easy / Medium)
     - Cooking time (less than user-defined value)
     - Language (EN / ES)
 
-✅ Responsive grid layout (1/2/3 columns based on screen width)
+3. ✅ Responsive grid layout (1/2/3 columns based on screen width)
 
-✅ Smooth UI interactions with hover effects, icons, and styling
+4. ✅ Smooth UI interactions with hover effects, icons, and styling
 
-✅ Recipe links and preview images
+5. ✅ Recipe links and preview images
 
-✅ Accessible and clean design with custom tag styling
+6. ✅ Accessible and clean design with custom tag styling
 
 ---
 
