@@ -1,5 +1,7 @@
 # 🍽️ Recipe Finder
 
+[DEMO](https://recipe-finder-gamma-six.vercel.app/)
+
 A simple recipe browsing web page that fetches recipes from a remote API and displays them in a responsive, filterable grid.
 
 ---
