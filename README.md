@@ -9,9 +9,9 @@ A simple recipe browsing web page that fetches recipes from a remote API and dis
 ✅ Dynamic recipe cards rendered from a public API
 
 ✅ Filter by:
-    Difficulty (Easy / Medium)
-    Cooking time (less than user-defined value)
-    Language (EN / ES)
+    - Difficulty (Easy / Medium)
+    - Cooking time (less than user-defined value)
+    - Language (EN / ES)
 
 ✅ Responsive grid layout (1/2/3 columns based on screen width)
 
