@@ -4,6 +4,11 @@ A simple recipe browsing web page that fetches recipes from a remote API and dis
 
 ---
 
+📷 Screenshot
+![image](https://github.com/user-attachments/assets/1222b4ef-5807-4d0d-9d0a-805c8b633609)
+
+---
+
 ## 🚀 Features
 
 1. ✅ Dynamic recipe cards rendered from a public API
