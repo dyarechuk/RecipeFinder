@@ -6,32 +6,32 @@ A simple recipe browsing web page that fetches recipes from a remote API and dis
 
 ## 🚀 Features
 
-- ✅ Dynamic recipe cards rendered from a public API
+✅ Dynamic recipe cards rendered from a public API
 
-- ✅ Filter by:
+✅ Filter by:
     Difficulty (Easy / Medium)
     Cooking time (less than user-defined value)
     Language (EN / ES)
 
-- ✅ Responsive grid layout (1/2/3 columns based on screen width)
+✅ Responsive grid layout (1/2/3 columns based on screen width)
 
-- ✅ Smooth UI interactions with hover effects, icons, and styling
+✅ Smooth UI interactions with hover effects, icons, and styling
 
-- ✅ Recipe links and preview images
+✅ Recipe links and preview images
 
-- ✅ Accessible and clean design with custom tag styling
+✅ Accessible and clean design with custom tag styling
 
 ---
 
 ## 💠 Tech Stack
 
-# HTML5
+- **HTML5**
 
-# CSS3 (Flexbox & Grid)
+- **CSS3 (Flexbox & Grid)**
 
-# JavaScript (Vanilla)
+- **JavaScript (Vanilla)**
 
-# Font Awesome for icons
+- **Font Awesome for icons**
 
 ---
 
@@ -46,6 +46,8 @@ recipe-finder/
 ├── reset.css           # CSS reset
 └── README.md           # Project overview (you are here)
 ```
+
+---
 
 ## 🧑‍💻 How to Run the Project
 
@@ -63,6 +65,7 @@ cd RecipeFinder
 
 ### 3. Install the Live Server extension and open index.html with it
 
+---
 
 ## Author
 
